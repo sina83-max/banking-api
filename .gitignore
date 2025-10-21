@@ -4,6 +4,8 @@
 .vscode
 .idea
 .DS_Store
+.envs/*
+!.envs/.env.example
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
